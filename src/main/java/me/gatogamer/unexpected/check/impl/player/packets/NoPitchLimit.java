@@ -15,7 +15,7 @@ import java.util.Arrays;
  */
 public class NoPitchLimit extends Check {
     public NoPitchLimit(User user) {
-        super(user, "No Pitch Limit", Arrays.asList("Previene que los jugadores puedan mover la dirección en una posición pitch>90"));
+        super(user, "No Pitch Limit", Arrays.asList("Prevents pitch>90"));
     }
 
     @Override

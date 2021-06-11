@@ -10,18 +10,14 @@ import me.gatogamer.unexpected.user.User;
 import java.util.Arrays;
 
 /**
- * This code has been created by
- * gatogamer#6666 A.K.A. gatogamer.
- * If you want to use my code, please
- * don't remove this messages and
- * give me the credits. Arigato! n.n
+ * Created by GladUrBad
  */
 public class BadPacketsA extends Check {
     private boolean blocking = false;
     private int buffer = 0;
 
     public BadPacketsA(User user) {
-        super(user, "BadPackets (A)", Arrays.asList("Validación del paquete dig"));
+        super(user, "BadPackets (A)", Arrays.asList("Dig packet validation"));
     }
 
     @Override

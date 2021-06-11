@@ -22,15 +22,11 @@ import org.bukkit.util.NumberConversions;
 import java.util.Arrays;
 
 /**
- * This code has been created by
- * gatogamer#6666 A.K.A. gatogamer.
- * If you want to use my code, please
- * don't remove this messages and
- * give me the credits. Arigato! n.n
+ * Created on 10/26/2020 Package com.gladurbad.medusa.check.impl.combat.reach by GladUrBad
  */
 public class HitBoxA extends Check {
     public HitBoxA(User user) {
-        super(user, "HitBox (A)", Arrays.asList("Verificación de el ángulo de ataque."));
+        super(user, "HitBox (A)", Arrays.asList("Verifies the angle of attack."));
     }
 
     private int buffer = 0;

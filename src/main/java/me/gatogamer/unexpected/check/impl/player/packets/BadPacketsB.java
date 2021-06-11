@@ -9,18 +9,14 @@ import me.gatogamer.unexpected.user.User;
 import java.util.Arrays;
 
 /**
- * This code has been created by
- * gatogamer#6666 A.K.A. gatogamer.
- * If you want to use my code, please
- * don't remove this messages and
- * give me the credits. Arigato! n.n
+ * Created by GladUrBad
  */
 public class BadPacketsB extends Check {
     private boolean diggingSent = false;
     private int buffer = 0;
 
     public BadPacketsB(User user) {
-        super(user, "BadPackets (B)", Arrays.asList("Detecta KillAura AutoBlock"));
+        super(user, "BadPackets (B)", Arrays.asList("Detects for KillAura (AutoBlock)"));
     }
 
     @Override
