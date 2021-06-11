@@ -1,0 +1,5 @@
+name: Unexpected
+version: ${project.version}
+main: me.gatogamer.unexpected.Unexpected
+authors: [ gatogamer ]
+website: https://insaneprojects.club

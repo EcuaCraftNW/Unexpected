@@ -1,0 +1,6 @@
+################################
+# Unexpected by gatogamer#1111 #
+################################
+
+alerts:
+  message: "&8[&cUnexpected&8] &c%player% &7just failed &c%check% &7(&cx%vl%&c) &8(&b%data%&8)"
