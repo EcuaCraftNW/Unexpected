@@ -9,11 +9,7 @@ import java.util.Arrays;
 import java.util.function.Predicate;
 
 /**
- * This code has been created by
- * gatogamer#6666 A.K.A. gatogamer.
- * If you want to use my code, please
- * don't remove this messages and
- * give me the credits. Arigato! n.n
+ * Created on 10/24/2020 Package com.gladurbad.medusa.check.impl.combat.aim by GladUrBad
  */
 public class AimAssistA extends Check {
     public AimAssistA(User user) {
